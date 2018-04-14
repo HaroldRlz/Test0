@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harold/AndroidStudioProjects/HolaMundo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/harold/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f1d0f8b7b152514fe3d456419b987444/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/harold/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7107cc9a3a5426893614b7ba7fe11707/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
